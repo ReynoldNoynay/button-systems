@@ -16,10 +16,11 @@ html {
   border-color: lightgreen;
 }
 
-.btn-ghost:hover {
+.btn:hover {
   background-color: darkgreen;
   border-color: darkgreen;
 }
-.btn-ghost: hover {
+
+.btn-ghost:hover {
   background-color: transparent;
 }
